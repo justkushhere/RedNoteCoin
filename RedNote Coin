@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RED NOTE COIN - The Meme Coin of the TikTok Ban</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            background-color: #ff3333;
+            color: white;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: black;
+            padding: 20px;
+            font-size: 24px;
+        }
+        .container {
+            padding: 50px;
+        }
+        .button {
+            display: inline-block;
+            padding: 15px 30px;
+            margin-top: 20px;
+            font-size: 18px;
+            color: white;
+            background-color: black;
+            text-decoration: none;
+            border-radius: 5px;
+        }
+        .button:hover {
+            background-color: #ff6666;
+        }
+        footer {
+            margin-top: 50px;
+            padding: 20px;
+            background-color: black;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        🚨 RED NOTE COIN 🚨
+    </header>
+    <div class="container">
+        <h1>The Meme Coin Inspired by TikTok's Ban!</h1>
+        <p>Join the revolution and embrace the chaos. When TikTok goes dark, RED NOTE COIN rises.</p>
+        <a href="#" class="button">Buy Now</a>
+    </div>
+    <footer>
+        &copy; 2025 RED NOTE COIN | The Ultimate Meme Coin 🚀
+    </footer>
+</body>
+</html>
